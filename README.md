@@ -1,5 +1,5 @@
 # Skript-Worldgaurd-Tab-Completions
-#This adds tab completions to worldgaurd commands
+This adds tab completions to worldgaurd commands
 
 dependencies:
 Skript 
